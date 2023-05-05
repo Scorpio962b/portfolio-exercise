@@ -1,0 +1,15 @@
+
+.myclass {
+    background-image:url(./images/photo-1666615435088-4865bf5ed3fd.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 0.2cm;
+    padding-right: 0.2cm;
+    margin: 3px;
+    font-family: fantasy;
+}
+
+.hover-black:hover {
+    background-color: #000;
+    color: #fff;
+}
